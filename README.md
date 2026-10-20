@@ -14,13 +14,13 @@ What software is needed to build this software
 
 A step by step series of examples that tell you how to get a development env running.
 
-## How to run this lab
-
-Add notes about how to use the system.
-
 ## Testing procedures
 
 Explain how you tested your solution.
+
+## Running the server
+
+Add notes about how to use the system.
 
 ## Challenges
 
