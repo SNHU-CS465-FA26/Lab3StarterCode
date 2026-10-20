@@ -8,7 +8,7 @@ Write about 1-2 paragraphs describing the purpose of this work.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+What software is needed to build this software 
 
 ### Building this lab
 
@@ -27,3 +27,9 @@ Explain how you tested your solution.
 Explain any challenges your encountered and how you overcame them.
 
 ## Full attribution of sources
+
+
+## EXTRA CREDIT work
+
+Fully describe which extra credit work you did and, if necessary, how to use it.
+
